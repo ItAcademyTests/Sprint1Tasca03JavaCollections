@@ -1,0 +1,5 @@
+- Nivell 2
+- Exercici 1
+Crea una classe anomenada Restaurant amb dos atributs: nom(String) i puntuació(int).
+Implementa els mètodes necessaris perquè no es puguin introduir objectes Restaurant amb el
+ mateix nom i la mateixa puntuació en un HashSet creat en el main() de l’aplicació.
