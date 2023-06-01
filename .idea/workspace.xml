@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b02319c3-9951-4dd4-885e-5f92f718c3d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sprint1Tasca03JavaCollections.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n1Exercici1/EnunciatN1Exercici1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n1Exercici2/EnunciatN1Exercici2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n1Exercici3/EnunciatN1Exercici3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n2Exercici1/EnunciatN2Exercici1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n2Exercici2/EnunciatN2Exercici2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n3Exercici1/EnunciatN3Exercici1" afterDir="false" />
+    <list default="true" id="b02319c3-9951-4dd4-885e-5f92f718c3d2" name="Changes" comment="Enunciats dels exercicis de tots els nivells">
+      <change afterPath="$PROJECT_DIR$/src/n1Exercici1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n1Exercici1/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n3Exercici1/Countries.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,14 +36,36 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ivand\IdeaProjects\ItAcademy\Sprint1Tasca03JavaCollections\src\n3Exercici1" />
       <recent name="C:\Users\ivand\IdeaProjects\ItAcademy\Sprint1Tasca03JavaCollections\src\n1Exercici2" />
       <recent name="C:\Users\ivand\IdeaProjects\ItAcademy\Sprint1Tasca03JavaCollections\src\n1Exercici1" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="n1Exercici1.Main" />
+      <module name="Sprint1Tasca03JavaCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="n1Exercici1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,8 +75,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685604405069</updated>
-      <workItem from="1685604406882" duration="646000" />
+      <workItem from="1685604406882" duration="4077000" />
     </task>
+    <task id="LOCAL-00001" summary="Enunciats dels exercicis de tots els nivells">
+      <created>1685605086654</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685605086654</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,5 +100,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Enunciats dels exercicis de tots els nivells" />
+    <option name="LAST_COMMIT_MESSAGE" value="Enunciats dels exercicis de tots els nivells" />
   </component>
 </project>
