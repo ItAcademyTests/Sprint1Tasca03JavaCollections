@@ -1,6 +1,8 @@
 package n1Exercici1;
 
 import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.Set;
 
 public class Main {
 
@@ -23,6 +25,14 @@ public class Main {
         months.add(7, new Month("Agost"));
 
         for (Month m : months) {
+            System.out.println(months.indexOf(m) + "   " + m);
+        }
+
+        Set<Month> monthsSet = new HashSet<>();
+        monthsSet.addAll(months);
+
+        System.out.println();
+        for (Month m : monthsSet) {
             System.out.println(months.indexOf(m) + "   " + m);
         }
 
