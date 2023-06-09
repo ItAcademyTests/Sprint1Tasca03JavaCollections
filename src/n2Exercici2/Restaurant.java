@@ -38,8 +38,8 @@ public class Restaurant implements Comparable<Restaurant>, Comparator<Restaurant
 
     @Override
     public int compare(Restaurant o1, Restaurant o2) {
-        var descripcioA = o1.getNom();
-        var descripcioB = o2.getNom();
-        return descripcioA.compareTo(descripcioB);
+        var nomA = o1.getNom();
+        var nomB = o2.getNom();
+        return nomA.compareTo(nomB);
     }
 }
