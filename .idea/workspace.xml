@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b02319c3-9951-4dd4-885e-5f92f718c3d2" name="Changes" comment="Nivell 2 exercici 2 fet">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n3Exercici1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n3Exercici1/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n3Exercici1/Persona.txt" afterDir="false" />
+    <list default="true" id="b02319c3-9951-4dd4-885e-5f92f718c3d2" name="Changes" comment="Nivell 3 exercici 1 fet">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/n2Exercici2/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n2Exercici2/Restaurant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/n3Exercici1/EnunciatN3Exercici1" beforeDir="false" afterPath="$PROJECT_DIR$/src/n3Exercici1/EnunciatN3Exercici1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n1Exercici2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n1Exercici2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ivand/IdeaProjects/ItAcademy/Sprint1Tasca03JavaCollections/src/n2Exercici2",
+    "last_opened_file_path": "C:/Users/ivand/IdeaProjects/ItAcademy/Sprint1Tasca04Testing",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
@@ -58,7 +53,7 @@
       <recent name="C:\Users\ivand\IdeaProjects\ItAcademy\Sprint1Tasca03JavaCollections\src\n1Exercici1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.n3Exercici1.Main">
+  <component name="RunManager" selected="Application.n1Exercici2.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="n1Exercici1.Main" />
       <module name="Sprint1Tasca03JavaCollections" />
@@ -72,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="n1Exercici3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="n1Exercici3.Main" />
+    <configuration name="n1Exercici2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="n1Exercici2.Main" />
       <module name="Sprint1Tasca03JavaCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="n1Exercici3.*" />
+          <option name="PATTERN" value="n1Exercici2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.n1Exercici2.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.n3Exercici1.Main" />
         <item itemvalue="Application.n2Exercici2.Main" />
         <item itemvalue="Application.n2Exercici1.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.n1Exercici3.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +137,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685604405069</updated>
-      <workItem from="1685604406882" duration="38520000" />
+      <workItem from="1685604406882" duration="43266000" />
     </task>
     <task id="LOCAL-00001" summary="Enunciats dels exercicis de tots els nivells">
       <created>1685605086654</created>
@@ -193,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686246923086</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Nivell 3 exercici 1 fet">
+      <created>1686338944544</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686338944544</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,7 +220,8 @@
     <MESSAGE value="Afegit HashSet en nivell 1 exercici 1" />
     <MESSAGE value="Nivell 2 exercici 1 fet" />
     <MESSAGE value="Nivell 2 exercici 2 fet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nivell 2 exercici 2 fet" />
+    <MESSAGE value="Nivell 3 exercici 1 fet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nivell 3 exercici 1 fet" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

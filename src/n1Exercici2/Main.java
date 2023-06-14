@@ -11,13 +11,19 @@ public class Main {
         list1.add(20);
         list1.add(30);
 
+        for (Integer num : list1) {
+            System.out.println(num);
+        }
+        System.out.println();
+
         Collections.reverse(list1);
 
         List<Integer> list2 = new ArrayList<>();
         list2.addAll(list1);
 
-        for (Integer num : list2) {
-            System.out.println(num);
+        Iterator<Integer> it = list2.iterator();
+        while(it.hasNext()) {
+            System.out.println(it.next());
         }
 
     }
